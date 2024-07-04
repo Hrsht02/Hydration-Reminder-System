@@ -1,1 +1,2 @@
 # Hydration-Reminder-System
+I have created a Hydration Reminder System that reminds you to drink water after specific time interval by sending Google notification. Along with reminder notification, it also suggest you amount of water to intake. It is gender based. The total water intake for girl and boy is used in this program is 2.7 L and 3.7 L respectively and is divided into intervals. I have uses HTML, CSS and Java Script to program this feature.
